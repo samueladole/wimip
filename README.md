@@ -21,6 +21,10 @@ A simple Rust CLI tool to fetch your public IP address using [ifconfig.io](https
 
 ## Usage
 
+
+https://github.com/user-attachments/assets/d54ce47e-3760-4b4a-9a84-2c79faadc0cd
+
+
 ```sh
 cargo run --release
 ```
