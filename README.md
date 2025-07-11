@@ -21,8 +21,7 @@ A simple Rust CLI tool to fetch your public IP address using [ifconfig.io](https
 
 ## Usage
 
-
-https://github.com/user-attachments/assets/d54ce47e-3760-4b4a-9a84-2c79faadc0cd
+![ezgif-80a5f4a77beb66](https://github.com/user-attachments/assets/1251524b-f740-4204-ba3e-f64fadc86dc4)
 
 
 ```sh
